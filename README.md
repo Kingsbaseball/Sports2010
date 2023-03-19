@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Sports2010
 - 👀 I’m interested in Webdesign
 - 🌱 I’m currently learning HTML, CSS, JAVA
-- 💞️ I’m looking to collaborate on a sports website
 - 📫 How to reach me ...
